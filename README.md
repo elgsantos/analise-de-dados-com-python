@@ -16,6 +16,8 @@ Planilhas:
 
 [daily_engagement.csv](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/daily_engagement.csv)
 
+Informações das tabelas: [table_descriptions.txt](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/table_descriptions.txt).
+
 Arquivo de análise: [Análise de dados](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/iniciando_analise_dados.ipynb)
 
-Informações das tabelas: [table_descriptions.txt](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/table_descriptions.txt).
+[Dados Unidimensionais](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/dados_unidimensionais_numpy_pandas.ipynb) com numpy e pandas
