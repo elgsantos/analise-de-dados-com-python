@@ -113,3 +113,5 @@ Columns:
     - has_visited:        1 if the student visited this course for at least 2
                           minutes on this day.
 
+
+daily_engagement_full.csv - do not commit (size greater than 100mb)
