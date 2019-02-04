@@ -20,6 +20,8 @@ Informações das tabelas: [table_descriptions.txt](https://github.com/elgsantos
 
 Arquivo de análise: [Análise de dados](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/iniciando_analise_dados.ipynb)
 
-[Dados Unidimensionais](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/dados_unidimensionais_numpy_pandas.ipynb) com numpy e pandas
+[Dados Unidimensionais](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/dados_unidimensionais_numpy.ipynb) com numpy
+
+[Dados Unidimensionais](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/dados_unidimensionais_pandas.ipynb) com pandas
 
 [Dados Bidimensionais](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/dados_bidimensionais_numpy_e_pandas.ipynb) com numpy e pandas
