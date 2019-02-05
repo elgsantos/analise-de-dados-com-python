@@ -25,3 +25,4 @@ Arquivo de análise: [Análise de dados](https://github.com/elgsantos/analise-de
 [Dados Unidimensionais](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/dados_unidimensionais_pandas.ipynb) com pandas
 
 [Dados Bidimensionais](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/dados_bidimensionais_numpy_e_pandas.ipynb) com numpy e pandas
+
