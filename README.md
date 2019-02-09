@@ -8,7 +8,7 @@ Ferramenta utilizada: IPython Notebook - [Tutorial](https://github.com/elgsantos
 
 Formato dos dados: csv
 
-Planilhas:
+## Planilhas:
 
 [enrollments.csv](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/enrollments.csv)
 
@@ -26,3 +26,8 @@ Arquivo de análise: [Análise de dados](https://github.com/elgsantos/analise-de
 
 [Dados Bidimensionais](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/dados_bidimensionais_numpy_e_pandas.ipynb) com numpy e pandas
 
+## Materiais
+
+[Unidimensionais](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/material_unidimensionais)
+
+[Bidimensionais](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/material_bidimensionais)
