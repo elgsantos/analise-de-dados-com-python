@@ -26,6 +26,8 @@ Arquivo de análise: [Análise de dados](https://github.com/elgsantos/analise-de
 
 [Dados Bidimensionais](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/dados_bidimensionais_numpy_e_pandas.ipynb) com numpy e pandas
 
+[DataFrame](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/DataFrame.ipynb)
+
 ## Materiais
 
 [Unidimensionais](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/material_unidimensionais)
