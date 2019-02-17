@@ -6,7 +6,7 @@ Ferramenta utilizada: IPython Notebook - [Tutorial](https://github.com/elgsantos
 
 [Download](https://www.anaconda.com/download/) Python + Notebook
 
-Formato dos dados: csv
+Formato dos dados: csv, txt
 
 ## Planilhas:
 
@@ -17,6 +17,8 @@ Formato dos dados: csv
 [daily_engagement.csv](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/daily_engagement.csv)
 
 Informações das tabelas: [table_descriptions.txt](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/table_descriptions.txt).
+
+## Notebooks
 
 Arquivo de análise: [Análise de dados](https://github.com/elgsantos/analise-de-dados-com-python/blob/master/iniciando_analise_dados.ipynb)
 
